@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale = 1">
+	<title>Riload Example</title>
+</head>
+<body>
+
+<div id="myDom"></div>
+
+<script src="../lib/embo.js"></script>
+<script src="../lib/riload.js"></script>
+<script>
+	let load = new Riload({
+		el: '#myDom',
+		url: 'action.php'
+	})
+</script>
+
+</body>
+</html>
