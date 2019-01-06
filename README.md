@@ -2,7 +2,7 @@
 
 Riload is a open-source library for help us to developping a lazyloading method. We just set the URL and DOM then we can lazyloading.
 
-Note : This is plugin for [embo.js](https://github.com/haloriyan/embo "EmboJs"). You must link that before using this.
+Note : This is plugin for [embo.js](https://github.com/haloriyan/embo "EmboJs"). You must link that before using this. And embo.js already included in this repository.
 
 ## Usage
 ```
